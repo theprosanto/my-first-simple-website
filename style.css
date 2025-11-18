@@ -2,7 +2,9 @@ p{
     text-align: center;
     color:firebrick;
 }
-h1{
+h1{ 
+    padding:100px;
+    margin-bottom: 100px;
     background-color: yellowgreen;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
